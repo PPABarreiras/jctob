@@ -1,0 +1,477 @@
+ .e1_2 { 
+	overflow:hidden;
+}
+.cabecalho { 
+	background-color:rgba(37.00000159442425, 165.00000536441803, 5.000000176951289, 1);
+	width:1440px;
+	height:78px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:3200px;
+	position:absolute;
+}
+.pl_fundo { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:1440px;
+	height:3357px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.imagem { 
+	width:1324px;
+	height:543px;
+	position:absolute;
+	left:58px;
+	top:96px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	background-image:url(https://img.freepik.com/fotos-gratis/sala-vazia-do-fundo-abstrato-gradiente-verde-com-espaco-para-o-seu-texto-e-imagens_1258-54426.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.icone1{ 
+	border-radius:500px;
+	background-color:rgba(255, 255, 255, 1);
+	width:70px;
+	height:70px;
+	position:absolute;
+	left:58px;
+	top:658px;
+}
+.icone2 { 
+	border-radius:500px;
+	background-color:rgb(255, 255, 255);
+	width:70px;
+	height:70px;
+	position:absolute;
+	left:486px;
+	top:658px;
+}
+.icone3 { 
+	border-radius:500px;
+	background-color:rgba(255, 255, 255, 1);
+	width:70px;
+	height:70px;
+	position:absolute;
+	left:1088px;
+	top:658px;
+}
+.data { 
+	color:rgba(0, 0, 0, 1);
+	width:214px;
+	height:27px;
+	position:absolute;
+	left:140px;
+	top:665px;
+	font-family:Inter;
+	text-align:left;
+	font-size:22px;
+	letter-spacing:0;
+}
+.local { 
+	color:rgba(0, 0, 0, 1);
+	width:432px;
+	height:27px;
+	position:absolute;
+	left:576px;
+	top:679px;
+	font-family:Inter;
+	text-align:left;
+	font-size:22px;
+	letter-spacing:0;
+}
+.organizador { 
+	color:rgba(0, 0, 0, 1);
+	width:48px;
+	height:27px;
+	position:absolute;
+	left:1171px;
+	top:679px;
+	font-family:Inter;
+	text-align:left;
+	font-size:22px;
+	letter-spacing:0;
+}
+.horario { 
+	color:rgba(0, 0, 0, 1);
+	width:152px;
+	height:27px;
+	position:absolute;
+	left:175px;
+	top:693px;
+	font-family:Inter;
+	text-align:left;
+	font-size:22px;
+	letter-spacing:0;
+}
+.f_descricao { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1324px;
+	height:739px;
+	position:absolute;
+	left:58px;
+	top:747px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.titulo { 
+    font-size: 50px;
+	color:rgba(0, 0, 0, 1);
+	width:1290px;
+	height:696px;
+	position:absolute;
+	left:79px;
+	top:754px;
+	font-family:Inter;
+	text-align:left;
+}
+.descricao{
+    font-size: 22px;
+	color:rgba(0, 0, 0, 1);
+	width:1290px;
+	height:696px;
+	position:absolute;
+	left:79px;
+	top:900px;
+	font-family:Inter;
+	text-align:left;
+}
+.lista{
+    font-size: 22px;
+	color:rgba(0, 0, 0, 1);
+	width:1290px;
+	height:696px;
+	position:absolute;
+	left:79px;
+	top:930px;
+	font-family:Inter;
+	text-align:left;
+}
+.f_palestrantes { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1324px;
+	height:739px;
+	position:absolute;
+	left:58px;
+	top:1525px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e3_34 { 
+	color:rgba(0, 0, 0, 1);
+	width:137px;
+	height:27px;
+	position:absolute;
+	left:1063px;
+	top:2023px;
+	font-family:Inter;
+	text-align:left;
+	font-size:22px;
+	letter-spacing:0;
+}
+.e3_33 { 
+	color:rgba(0, 0, 0, 1);
+	width:188px;
+	height:27px;
+	position:absolute;
+	left:626px;
+	top:2023px;
+	font-family:Inter;
+	text-align:left;
+	font-size:22px;
+	letter-spacing:0;
+}
+.ft_pal1 { 
+	width:300px;
+	height:300px;
+	position:absolute;
+	left:170px;
+	top:1710px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	background-image:url(https://img.freepik.com/fotos-gratis/sala-vazia-do-fundo-abstrato-gradiente-verde-com-espaco-para-o-seu-texto-e-imagens_1258-54426.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.ft_pal2 { 
+	width:300px;
+	height:300px;
+	position:absolute;
+	left:570px;
+	top:1710px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	background-image:url(https://img.freepik.com/fotos-gratis/sala-vazia-do-fundo-abstrato-gradiente-verde-com-espaco-para-o-seu-texto-e-imagens_1258-54426.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.ft_pal3 { 
+	width:300px;
+	height:300px;
+	position:absolute;
+	left:970px;
+	top:1710px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	background-image:url(https://img.freepik.com/fotos-gratis/sala-vazia-do-fundo-abstrato-gradiente-verde-com-espaco-para-o-seu-texto-e-imagens_1258-54426.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.palestrantes { 
+	color:rgba(0, 0, 0, 1);
+	width:314px;
+	height:61px;
+	position:absolute;
+	left:563px;
+	top:1558px;
+	font-family:Inter;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e3_32 { 
+	color:rgba(0, 0, 0, 1);
+	width:113px;
+	height:27px;
+	position:absolute;
+	left:264px;
+	top:2023px;
+	font-family:Inter;
+	text-align:left;
+	font-size:22px;
+	letter-spacing:0;
+}
+.inscricaot { 
+	background-color:rgba(255, 255, 255, 1);
+	width:214px;
+	height:59px;
+	position:absolute;
+	left:1168px;
+	top:10px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.inscricaof { 
+	background-color:rgba(37.00000159442425, 165.00000536441803, 5.000000176951289, 1);
+	width:214px;
+	height:59px;
+	position:absolute;
+	left:1168px;
+	top:3116px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.r_inscricaot { 
+	color:rgba(0, 0, 0, 1);
+	width:194px;
+	height:27px;
+	position:absolute;
+	left:1178px;
+	top:5px;
+	font-family:Inter;
+	text-align:center;
+	font-size:22px;
+	letter-spacing:0;
+}
+.f_cronograma { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1324px;
+	height:788px;
+	position:absolute;
+	left:58px;
+	top:2297px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.dt_cron3 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:204px;
+	height:58px;
+	position:absolute;
+	left:598px;
+	top:2395px;
+}
+.e3_48 { 
+	color:rgba(0, 0, 0, 1);
+	width:71px;
+	height:29px;
+	position:absolute;
+	left:665px;
+	top:2409px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e3_42 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:204px;
+	height:58px;
+	position:absolute;
+	left:384px;
+	top:2395px;
+}
+.e3_46 { 
+	color:rgba(0, 0, 0, 1);
+	width:72px;
+	height:29px;
+	position:absolute;
+	left:451px;
+	top:2409px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e3_40 { 
+	background-color:rgba(145.56249797344208, 145.56249797344208, 145.56249797344208, 1);
+	width:1100px;
+	height:583px;
+	position:absolute;
+	left:170px;
+	top:2453px;
+}
+.e3_53 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:916px;
+	height:131px;
+	position:absolute;
+	left:262px;
+	top:2845px;
+}
+.e3_52 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:916px;
+	height:131px;
+	position:absolute;
+	left:262px;
+	top:2679px;
+}
+.e3_41 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:204px;
+	height:58px;
+	position:absolute;
+	left:170px;
+	top:2395px;
+}
+.e3_45 { 
+	color:rgba(0, 0, 0, 1);
+	width:71px;
+	height:29px;
+	position:absolute;
+	left:237px;
+	top:2409px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.r_inscricaof { 
+	color:rgba(0, 0, 0, 1);
+	width:194px;
+	height:27px;
+	position:absolute;
+	left:1178px;
+	top:3132px;
+	font-family:Inter;
+	text-align:center;
+	font-size:22px;
+	letter-spacing:0;
+}
+.e3_51 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:916px;
+	height:131px;
+	position:absolute;
+	left:262px;
+	top:2513px;
+}
+.e3_54 { 
+	width:51px;
+	height:51px;
+	position:absolute;
+	left:68px;
+	top:669px;
+}
+.e3_55 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:38.25px;
+	height:41.4375px;
+	position:absolute;
+	left:6.375px;
+	top:3.1875px;
+}
+.e3_56 { 
+	width:48px;
+	height:48px;
+	position:absolute;
+	left:497px;
+	top:669px;
+}
+.e3_57 { 
+	width:30px;
+	height:40px;
+	position:absolute;
+	left:9px;
+	top:4px;
+}
+.e3_58 { 
+	border:4px solid rgba(0, 0, 0, 1);
+}
+.e3_58 { 
+	width:30px;
+	height:40px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e3_59 { 
+	border:4px solid rgba(0, 0, 0, 1);
+}
+.e3_59 { 
+	width:12px;
+	height:12px;
+	position:absolute;
+	left:9px;
+	top:9px;
+}
+.e3_60 { 
+	width:50px;
+	height:50px;
+	position:absolute;
+	left:1098px;
+	top:667px;
+}
+.e3_61 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:43.75117874145508px;
+	height:43.60994338989258px;
+	position:absolute;
+	left:3.1238226890563965px;
+	top:3.1431822776794434px;
+}
